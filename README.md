@@ -8,7 +8,7 @@
     <br/>
     
 <p align="center">
-  [![Mozilla Firefox 3.5 logo](https://i.ibb.co/3TXn8hz/Mozilla-Firefox-3-5-logo.png)](https://addons.mozilla.org/en-US/firefox/addon/never-ending-chatgpt/)
+  [<img src="https://i.ibb.co/3TXn8hz/Mozilla-Firefox-3-5-logo.png">](https://addons.mozilla.org/en-US/firefox/addon/never-ending-chatgpt/)
   <img src="https://i.ibb.co/HdB7GTK/output-onlinepngtools.png">
 </p>
 
