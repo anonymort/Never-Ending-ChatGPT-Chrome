@@ -3,9 +3,14 @@
   <img src="https://i.ibb.co/s5m1qJs/icon.png">
   <h3 align="center">Never Ending ChatGPT</h3>
 
-  <p align="center">
+<p align="center">
     An extension that auto-scrolls and presses the 'Show more' button in ChatGPT's sidebar to load historical chats.
     <br/>
+    
+<p align="center">
+  [![Mozilla Firefox 3.5 logo](https://i.ibb.co/3TXn8hz/Mozilla-Firefox-3-5-logo.png)](https://addons.mozilla.org/en-US/firefox/addon/never-ending-chatgpt/)
+  <img src="https://i.ibb.co/HdB7GTK/output-onlinepngtools.png">
+</p>
 
 ## Table Of Contents
 
@@ -19,7 +24,7 @@
 
 ## About The Project
 
-A simple Firefox extension that auto-scrolls and presses the 'Show more' button in ChatGPT's sidebar to load all previous chats. It is, though, unfortunately hard limited to 100 chats by OpenAI's API
+A simple Chrome extension that auto-scrolls and presses the 'Show more' button in ChatGPT's sidebar to load all previous chats. It is, though, unfortunately hard limited to 100 chats by OpenAI's API
 
 ## Built With
 
@@ -27,7 +32,7 @@ JavaScript, and ChatGPT input of course.
 
 ## Getting Started
 
-Either download and built from here using Mozilla's web-ext build function, or from the add-on store (link pending, awaiting approval)
+Unfortunately, unlike Firefox, Google refuse to accept the extension to the app store and won't provide feedback. It can be downloaded here and installed with Developer mode enabled.
 
 ## Roadmap
 
