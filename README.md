@@ -8,7 +8,7 @@
     <br/>
     
 <p align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/never-ending-chatgpt/">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/never-ending-chatgpt/" style="text-decoration: none;">
     <img src="https://i.ibb.co/3TXn8hz/Mozilla-Firefox-3-5-logo.png" alt="Mozilla Firefox 3.5 logo" width="100" style="margin-right: 10px;">
   </a>
   <img src="https://i.ibb.co/HdB7GTK/output-onlinepngtools.png" alt="Second image" width="100">
